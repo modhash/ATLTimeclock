@@ -18,4 +18,4 @@ This is a simple time tracking application that allows users to log their time a
 1. Clone the repository:
    ```bash
    git clone https://github.com/modhash/ATLTimeclock
-   cd time-tracker-app
+   cd ATLTimeclock
