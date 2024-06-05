@@ -17,5 +17,5 @@ This is a simple time tracking application that allows users to log their time a
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/time-tracker-app.git
+   git clone https://github.com/modhash/ATLTimeclock
    cd time-tracker-app
